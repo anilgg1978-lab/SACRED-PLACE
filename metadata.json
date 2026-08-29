@@ -1,0 +1,6 @@
+{
+  "name": "Ethereal Ambient Sanctuary",
+  "description": "An ethereal ambient mindfulness, breathwork, and focus app featuring interactive fluid gradient shaders, procedural soundscapes, and meditation timers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
